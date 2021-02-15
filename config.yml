@@ -33,28 +33,28 @@ steps:
 # Step 2: EDIT HERE -INTERNAL COMMENT FOR STEP 2
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: The learner will be able to know what a Markdown is and the things needed to be successful using Markdown. By the end of the course, the learner should have the basic information and skills to work with Markdown.
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  event: GLearners will learn how to make internal comment for this step.
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 3: Read the description carefully and review a few times if necessary.
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  event: GLearners will learn how to read description for this lab and apply it.
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 4: Start applying what have learned in the previous lesson.
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  event: GLearners will apply and demonstrate how much they learned from previous lesson.
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 5: Check and review before submit work.
 # - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+#  event: Check and review carefully before finally submitting your assignment.
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
