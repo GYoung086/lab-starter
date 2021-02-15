@@ -12,7 +12,7 @@ Here, we'll describe generally what the user is about to do.
 
 ### :keyboard: Activity: Specific description
 
-1. Step 1 in short sentence
+1. Click on link to open the GLearner lab course.
 2. Step 2 in short sentence
 3. Step 3 in short sentence
 
